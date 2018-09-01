@@ -6,3 +6,6 @@ Updates made on master on Github before rebase
 ## Repository Purpose
 
 Just some more updates 
+
+The purpose of this file is to provide exmples
+on how to use Git and Github together.
