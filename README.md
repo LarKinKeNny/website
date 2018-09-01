@@ -1,3 +1,3 @@
 # My Website
-This is a really awesome website,true story.
+This is a really awesome website.
 Now editing on update-readme branch
